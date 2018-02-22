@@ -37,10 +37,10 @@ type new.txt in the white space and click on load
 ```
 
 ## Rules
-### You can click around the white space to pick the starting location, and the second click will be the endlocation
-### Then click on go, the shortest path will be drawn
-### the second click will have a black wall randomly placed on the path
-### another click will allow the starting box to move on the drawn path
-### and keep going
-### If less than 8 steps are apart from the starting to ending box, then congrats you WIN!!!
-### The game losses if there is no path between the starting and ending box.
+* You can click around the white space to pick the starting location, and the second click will be the endlocation
+* Then click on go, the shortest path will be drawn
+* the second click will have a black wall randomly placed on the path
+* another click will allow the starting box to move on the drawn path
+* and keep going
+* If less than 8 steps are apart from the starting to ending box, then congrats you WIN!!!
+* The game losses if there is no path between the starting and ending box.
