@@ -24,9 +24,9 @@ There is a default test.txt that you can use that draws the wall(-1) and availab
 ## What the file and image look like
 What the test.txt looks like
 ```
-![alt text](text.png)
+![alt text](https://github.com/wenmin518/Maze/blob/master/text.png)
 ```
 
 And the corresponding UI component
 ```
-![alt text](img.png)
+![alt text](https://github.com/wenmin518/Maze/blob/master/img.png)
